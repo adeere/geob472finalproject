@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-<iframe src="https://adeere.github.io/adeere-web/final_project_map3/index_sidebar.html" width="1300"height="625"> </iframe>
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
+<iframe src="https://adeere.github.io/adeere-web/final_project_map3/index_sidebar.html" width="1300"height="625"> </iframe>
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere/geob472finalproject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
