@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+<iframe src="https://adeere.github.io/adeere-web/final_project_map3/index_sidebar.html" width="1300"height="625"> </iframe>
 You can use the [editor on GitHub](https://github.com/adeere/geob472finalproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-<iframe src="https://adeere.github.io/adeere-web/final_project_map3/index_sidebar.html" width="1300"height="625"> </iframe>
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere/geob472finalproject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
